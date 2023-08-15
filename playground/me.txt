@@ -1,5 +1,5 @@
 {{#user}
 Name: Krushali Limbad
-Skills: HTML, CSS, JS, React.js, Next.js, Tailwind CSS, Bootstrap, C++, OOPS, DSA
+Skills: HTML, CSS, JS, React.js, Next.js, Tailwind CSS, Bootstrap, C++, OOPS, DSA, Python
 Email: Krushalilimbad24@gmail.com
 {{/user}}
